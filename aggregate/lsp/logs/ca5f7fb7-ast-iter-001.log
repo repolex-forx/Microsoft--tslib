@@ -1,0 +1,7 @@
+[2026-04-09T21:26:28Z] === AST ITERATION 1 START | repo=Microsoft/tslib sha=ca5f7fb7 ===
+[2026-04-09T21:26:28Z] [iter=1] PHASE START: ast repo=Microsoft/tslib sha=ca5f7fb7
+[2026-04-09T21:26:28Z] [iter=1] Building AST aggregate chunks
+[2026-04-09T21:26:38Z] [iter=1] AST chunks built count=1 triples=105819
+[2026-04-09T21:26:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ca5f7fb791f85ebf17c0102cdc632e9577b3e483/.complete
+[2026-04-09T21:26:38Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.2
+[2026-04-09T21:26:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
